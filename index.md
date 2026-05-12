@@ -4,7 +4,7 @@ title: "Home"
 nav_order: 1
 description: "Knowledge Hub — a curated research wiki on postsecondary student success, digital education transformation, and workforce alignment."
 ---
-A curated knowledge base synthesizing research on postsecondary student success, digital education transformation, and workforce alignment. Built from 49 research documents spanning 2016-2025, structured around the content areas identified in the Axim Collaborative Strategy Briefing.
+A curated knowledge base synthesizing an internal strategy document and research on postsecondary student success, digital education transformation, and workforce alignment. Built from 49 research documents spanning 2016-2025, structured around the content areas identified in the Axim Collaborative Strategy Briefing.
 
 ## Wiki Pages
 
